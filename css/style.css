@@ -1,0 +1,29 @@
+
+p{
+    color:coral;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+    line-height: 200%;
+}
+#titulo-principal{
+    color:rgb(100, 35, 223);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:40px;
+    text-align: center;
+}
+.impares{
+font-family:tahoma; 
+color:darkred; 
+background-color: darksalmon;
+text-align: left;
+}
+a{
+    color:rgb(14, 218, 14);
+    text-decoration: none;
+    font-weight: bold;
+    background-color: #000;
+}
+a:hover {
+    color:black;
+    background-color:rgb(14, 218, 14);
+}
